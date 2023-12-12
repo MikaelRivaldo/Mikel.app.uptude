@@ -1,4 +1,4 @@
-# Android-10
+# MMikel.app
 
 ## Profil
 | Variable | Isi |
@@ -12,3 +12,5 @@ Buatlah tampilan menu Fragment dengan tema Genre Film (Action, Komedi dan Romanc
 
 # Demo Aplikasi
 
+
+https://github.com/MikaelRivaldo/Mikel.app/assets/115770247/577b68d3-ede2-497e-aefc-aa60f578d0ea
