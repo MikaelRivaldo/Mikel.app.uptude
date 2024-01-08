@@ -19,10 +19,11 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="35dp"
             android:layout_marginTop="38dp"
-            android:text="Pertaruhan The Series"
-            android:textColor="@color/white"
+            android:text="Spy X Family"
             android:textSize="20dp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:textColor="@color/white"/>
+
 
 
     </androidx.cardview.widget.CardView>
@@ -31,7 +32,7 @@
         android:id="@+id/imageView"
         android:layout_width="167dp"
         android:layout_height="260dp"
-        android:src="@drawable/poster_action"
+        android:src="@drawable/animek2"
         android:layout_marginTop="120dp"
         android:layout_marginStart="30dp"/>
 
@@ -41,7 +42,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="220dp"
         android:layout_marginTop="150dp"
-        android:text="Pertaruhan The Series"
+        android:text="Spy X Family"
         android:textColor="@color/black" />
 
     <TextView
@@ -50,7 +51,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="220dp"
         android:layout_marginTop="190dp"
-        android:text="★ 5"
+        android:text="★ 7"
         android:textSize="15dp"
         android:textColor="@color/black" />
 
@@ -71,8 +72,7 @@
         android:layout_marginStart="30dp"
         android:layout_marginTop="425dp"
         android:justificationMode="inter_word"
-        android:text="Empat bersaudara Ibra, Elzan, Amar, dan Ical berusaha mengumpulkan uang untuk biaya rumah sakit ayah mereka. Karena selalu menemui jalan buntu, mereka akhirnya mengambil keputusan yang sangat ceroboh.
-"
+        android:text="Spy X Family mengisahkan seorang agen mata-mata terbaik Westalis dengan kode Twilight (Senja/Tasogare). Ia digambarkan dengan wajah tampan, namun memiliki kemampuan berubah-ubah wajah dengan menggunakan topeng"
         android:textColor="@color/black"
         android:textSize="15dp" />
 
