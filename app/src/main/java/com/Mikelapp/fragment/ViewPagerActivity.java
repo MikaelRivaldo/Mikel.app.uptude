@@ -1,10 +1,12 @@
 package com.Mikelapp.fragment;
 
 import android.os.Bundle;
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
+
+import com.ditoa4app.R;
 import com.google.android.material.tabs.TabLayout;
-import com.Mikelapp.R;
 
 public class ViewPagerActivity extends AppCompatActivity {
 
@@ -17,9 +19,9 @@ public class ViewPagerActivity extends AppCompatActivity {
         TabLayout tabLayout = findViewById(R.id.tab_layout);
 
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
-        adapter.addFragment(new Tab1(), "Action");
-        adapter.addFragment(new Tab2(), "Horror");
-        adapter.addFragment(new Tab3(), "Anime");
+        adapter.addFragment(new Tab1(), "Thriller");
+        adapter.addFragment(new Tab2(), "Action");
+        adapter.addFragment(new Tab3(), "Romance");
 
         viewPager.setAdapter(adapter);
         tabLayout.setupWithViewPager(viewPager);

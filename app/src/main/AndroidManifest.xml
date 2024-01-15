@@ -29,7 +29,12 @@
         <activity android:name=".Hallo_Activity" android:exported="true" />
         <activity android:name=".First_Activity" android:exported="true" />
         <activity android:name=".Second_Activity" android:exported="true" />
-        <activity android:name=".Sinopsis.Sinopsis1" android:exported="true" >
+        <activity android:name=".fragment.sinopsis.SinopsisAction1" android:exported="true" />
+        <activity android:name=".fragment.sinopsis.SinopsisAction2" android:exported="true" />
+        <activity android:name=".fragment.sinopsis.SinopsisThriller1" android:exported="true" />
+        <activity android:name=".fragment.sinopsis.SinopsisThriller2" android:exported="true" />
+        <activity android:name=".fragment.sinopsis.SinopsisRomance1" android:exported="true" />
+        <activity android:name=".fragment.sinopsis.SinopsisRomance2" android:exported="true" />
 
         </activity>
 
